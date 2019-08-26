@@ -10,3 +10,6 @@ ctrl+shift+b/cmd+shift+b
 
 # show addons
 cmd+shift+a
+
+# stop
+cmd+.(just like `esc`)
