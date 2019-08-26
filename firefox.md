@@ -7,3 +7,6 @@ ctrl+h(windows)/cmd+shift+h(mac)(not cmd+h, which is reserved for hiding, as in 
 
 # manage bookmarks
 ctrl+shift+b/cmd+shift+b
+
+# show addons
+cmd+shift+a
