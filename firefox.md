@@ -1,5 +1,8 @@
 # how to simulate mobile phone user agent:
+for windows:
 press **Ctrl+Shift+M**(*mnemonic*: M for mobile phone)
+for mac:
+press **cmd+option+M**
 After this, a **settings icon** appears on top right corner. Click and select `reload when user agent is changed`
 
 # history
