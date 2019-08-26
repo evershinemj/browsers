@@ -16,3 +16,9 @@ cmd+shift+a
 
 # stop
 cmd+.(just like `esc`)
+
+# toggle bookmarks
+> ctrl+b
+
+# toggle history
+> ctrl+h
