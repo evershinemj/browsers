@@ -4,3 +4,9 @@
 
 # show history
 > ctrl+h
+
+# open settings
+> click the icon on the rightmost of the location bar, then **just press S**.
+
+# configure chrome to open a specific site on starting
+> in *settings -> appearance*, navigate down to `when starting`, and then configure `open a specific site or a group of sites`
