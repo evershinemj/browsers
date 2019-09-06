@@ -22,3 +22,6 @@ cmd+.(just like `esc`)
 
 # toggle history
 > ctrl+h
+
+# url completion
+**tab** works for **url completion** in firefox
