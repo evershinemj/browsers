@@ -14,3 +14,9 @@
 
 # url completion
 **tab** works for **url completion** in chrome
+
+# inhibit translation
+go to settings -> advanced -> language.
+here's the point:
+there is an **inverve caret** on the right of the language setting item.
+click that **inverve caret**, and toggle the togglebutton `inquire whether or not to translate`
