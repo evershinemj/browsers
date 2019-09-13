@@ -21,3 +21,14 @@ here's the point:
 there is an **inverve caret** on the right of the language setting item.
 click that **inverve caret**, and toggle the togglebutton `inquire whether or not to translate`
 > **observe more!**
+
+# developer mode
+## tabs
+### elements(DOM explorer)
+note that this tab is used for easy navigation of the DOM tree, rather than viewing the overall html source.
+### console
+### sources(debugger)
+chrome sources uses a tag icon to signify a breakpoint(as in firefox).
+## view source
+ctrl-u
+

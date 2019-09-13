@@ -25,3 +25,14 @@ cmd+.(just like `esc`)
 
 # url completion
 **tab** works for **url completion** in firefox
+
+# developer mode
+## tabs
+### inspector(DOM explorer)
+note that this tab is used for easy navigation of the DOM tree, rather than viewing the overall html source.
+### console
+### debugger
+firefox debugger uses a tag icon to signify a breakpoint.
+## view source
+ctrl-u
+
