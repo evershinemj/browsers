@@ -8,3 +8,6 @@ cmd+d
 cmd+shift+d
 ## edit bookmarks
 cmd+option+b
+
+# url completion
+**ctrl-n** and **ctrl-p** work great in safari

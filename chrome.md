@@ -13,7 +13,10 @@
 > for example, **www.ted.com**
 
 # url completion
+## on windows
 **tab** works for **url completion** in chrome
+## on mac
+**ctrl-n** and **ctrl-p** work great in chrome
 
 # inhibit translation
 go to settings -> advanced -> language.
