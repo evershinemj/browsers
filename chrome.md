@@ -1,4 +1,4 @@
-# search
+# search in source
 - search results are ==highlighted yellow==
 - on the right scroll bar **the distribution of search results** is displayed
 
