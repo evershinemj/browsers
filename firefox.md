@@ -24,7 +24,10 @@ cmd+.(just like `esc`)
 > ctrl+h
 
 # url completion
+## on windows
 **tab** works for **url completion** in firefox
+## on mac
+**ctrl-n** and **ctrl-p** work great in firefox
 
 # developer mode
 ## tabs
