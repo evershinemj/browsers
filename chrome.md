@@ -2,6 +2,9 @@
 - search results are ==highlighted yellow==
 - on the right scroll bar **the distribution of search results** is displayed
 
+# bookmarks
+- when using C-d to add a bookmark, do remember to come up with a name for the url for convenience of future usage
+
 # show main page button
 > in *settings -> appearance*, turn on `show main page button`, and fill in the main page url
 > a `home icon` will then appear on the location bar
