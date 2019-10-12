@@ -2,6 +2,12 @@
 - search results are ==highlighted yellow==
 - on the right scroll bar **the distribution of search results** is displayed
 
+# browse
+## space
+same as pagedown
+## shift-space
+same as pageup
+
 # bookmarks
 - when using C-d to add a bookmark, do remember to come up with a name for the url for convenience of future usage
 
