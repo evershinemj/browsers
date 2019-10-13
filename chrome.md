@@ -4,9 +4,11 @@
 
 # browse
 ## space
-same as pagedown
+- same as pagedown
+- consistent with the space key in emacs view-mode
 ## shift-space
-same as pageup
+- same as pageup
+- consistent with the S-space key in emacs view-mode
 
 # bookmarks
 - when using C-d to add a bookmark, do remember to come up with a name for the url for convenience of future usage
